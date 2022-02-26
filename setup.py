@@ -10,7 +10,7 @@ except IOError:
 setuptools.setup(
     name="tgfilestream",
     version=__version__,
-    url="https://mau.dev/SLOGAN/tgfilestream",
+    url="https://mau.dev/tulir/tgfilestream",
 
     author="Tulir Asokan",
     author_email="DEVAD@SLOGAN.net",
